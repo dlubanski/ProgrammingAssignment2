@@ -1,4 +1,4 @@
-## Functions retrieve and set matrix and inverse, then, returns previously assigned inverse or
+## Functions retrieve and set matrix and inverse, then returns previously assigned inverse or
 ## computes inverse and returns.
 
 ## 1st function creates matrix, retrieves matrix, sets matrix inverse and retrieves inverse.
